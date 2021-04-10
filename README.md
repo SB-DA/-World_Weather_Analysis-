@@ -10,22 +10,22 @@ This data helped the Team predict the best time of the year for people to plan t
 ## Challenge Overview
 Jack loved the PlanMyTrip app. Beta testers love it too. And, as with any new product, they’ve recommended a few changes to take the app to the next level. Specifically, they recommend adding the weather description to the weather data. We will have the beta testers use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map.
 
-## Challnege Summary 
+## Challenge Summary 
 - We generated a set of 2,000 random latitudes and longitudes, retrieved the nearest city, and performed an API call with the OpenWeatherMap. In addition to the city weather data we gathered in this module, used API skills to retrieve the current weather description for each city. Then, created a new DataFrame containing the updated weather data and saved it as a CSV file.
 
 ![image](https://user-images.githubusercontent.com/78935551/114280730-a72b9800-9a08-11eb-8656-f8bf6580c554.png)
 
-- We created a customer Travel Destination Map using input statements to retrieve customer weather preferences, then used those preferences to identify potential travel destinations and nearby hotels. Showing those destinations on a marker layer map with pop-up markers.
+- We created a customer Travel Destination Map using input statements to retrieve customer weather preferences, then used those preferences to identify potential travel destinations and nearby hotels in Brazil. Showing those destinations on a marker layer map with pop-up markers.
 
 ![image](https://user-images.githubusercontent.com/78935551/114280778-f8d42280-9a08-11eb-9bbb-87706a84e6ce.png)
 
 - We also created a Travel itierary Map using Google Directions API that shows the route between four cities chosen from the customer’s possible travel destinations. Then, created a marker layer map with a pop-up marker for each city on the itinerary.
 
-##### This is the directions layer map :
+#### This is the directions layer map :
 
 ![image](https://user-images.githubusercontent.com/78935551/114280875-549eab80-9a09-11eb-8ef7-63c7faabdd41.png)
 
-##### This is the marker layer map with a pop-up marker for each city :
+#### This is the marker layer map with a pop-up marker for each city :
 
 ![image](https://user-images.githubusercontent.com/78935551/114280942-9891b080-9a09-11eb-89e4-cc93ea92b0d7.png)
 
