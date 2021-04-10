@@ -13,7 +13,14 @@ Jack loved the PlanMyTrip app. Beta testers love it too. And, as with any new pr
 ## Challnege Summary 
 - We generated a set of 2,000 random latitudes and longitudes, retrieved the nearest city, and performed an API call with the OpenWeatherMap. In addition to the city weather data we gathered in this module, used API skills to retrieve the current weather description for each city. Then, created a new DataFrame containing the updated weather data and saved it as a CSV file.
 
-![image](https://user-images.githubusercontent.com/78935551/114280698-86fbd900-9a08-11eb-8d3c-9cb69cc04352.png)
+![image](https://user-images.githubusercontent.com/78935551/114280730-a72b9800-9a08-11eb-8656-f8bf6580c554.png)
+
+- We created a customer Travel Destination Map using input statements to retrieve customer weather preferences, then used those preferences to identify potential travel destinations and nearby hotels. Showing those destinations on a marker layer map with pop-up markers.
+
+![image](https://user-images.githubusercontent.com/78935551/114280778-f8d42280-9a08-11eb-9bbb-87706a84e6ce.png)
+
+
+- 
 
 
 
