@@ -22,18 +22,14 @@ Jack loved the PlanMyTrip app. Beta testers love it too. And, as with any new pr
 
 - We also created a Travel itierary Map using Google Directions API that shows the route between four cities chosen from the customer’s possible travel destinations. Then, created a marker layer map with a pop-up marker for each city on the itinerary.
 
-#### This is the directions layer map :
+### This is the directions layer map :
 
 ![image](https://user-images.githubusercontent.com/78935551/114281121-97ad4e80-9a0a-11eb-9df9-c4f799bf547f.png)
 
 
-#### This is the marker layer map with a pop-up marker for each city :
+### This is the marker layer map with a pop-up marker for each city :
 
 ![image](https://user-images.githubusercontent.com/78935551/114281124-a0058980-9a0a-11eb-9a3b-6b486cb3afc1.png)
-
-
-
-
 
 
 
